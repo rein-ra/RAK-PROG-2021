@@ -1,0 +1,15 @@
+.navbar {
+    background-color: lightcoral;
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.webbanner{
+}
+
+.cartico{
+    height: 50px;
+    margin: 50px;
+}
